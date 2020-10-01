@@ -23,7 +23,8 @@ npm install react-native-html-render
 ![noder-demo](http://7lrzfj.com1.z0.glb.clouddn.com/soliurynoder-html-render.gif)
 
 ## Example
-
+// I think you should go forword to the new feature of JavaScript
+means you should update your var to let//
 ``` javascript
 var React = require('react-native')
 var HtmlRender = require('react-native-html-render')
